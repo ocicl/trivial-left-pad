@@ -1,0 +1,10 @@
+* trivial-left-pad
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.com/mbabich/trivial-left-pad.git   |
+| commit  | {"messa  |
+| systems | trivial-left-pad |
+|---------+-------------------------------------------|
+
