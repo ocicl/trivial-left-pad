@@ -4,7 +4,7 @@
 
 |---------+-------------------------------------------|
 | source  | git:https://gitlab.com/mbabich/trivial-left-pad.git   |
-| commit  | {"messa  |
+| commit  | 450c8c7  |
 | systems | trivial-left-pad |
 |---------+-------------------------------------------|
 
